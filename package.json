@@ -1,0 +1,22 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sivaranjani3165/ReactDemo.git"
+  },
+  "author": "Sivaranjani Kamaraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sivaranjani3165/ReactDemo/issues"
+  },
+  "homepage": "https://github.com/Sivaranjani3165/ReactDemo#readme",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
+}
